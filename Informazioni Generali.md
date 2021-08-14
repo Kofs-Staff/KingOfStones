@@ -46,9 +46,15 @@ King Of Stones International
 
   - Offline Shop
     - Search Shop and more
-    - 
+
+![Offline Shop](https://www.mmotutkunlari.com/eklentiler/images-jpeg.4785/)
+
   - Cinture 
     - Inventario cinture attiva tutti i buff item
+
+
+![Cinture](https://i.ibb.co/k3jb82p/ddd.png/)
+
   - Stole
     - Inventario costume
     - Max % assorbimento 25%
@@ -61,6 +67,9 @@ King Of Stones International
     - Key Drop:
       - Pescando, Boss Minori, Missione (Espandi il tuo inventario)
 
+
+![Unlock Inventory](https://i.ibb.co/Jp2DJdh/vvv.png/)
+
   - Switch-Bot
     - Auto & Manual
     - Bottone in inventario
@@ -69,6 +78,8 @@ King Of Stones International
     - Gira Bonus Verdi (Item Name)
     - Trascina item name per aprire il gira bonus manuale
     - Utilizzabile su item fino a lv 40 (Tutti gli item del proprio equipaggiamento)	
+
+![Switch-Bot](https://i.postimg.cc/JzfgQM1n/Screenshot-1.png/)
 
   - Buff Di Gruppo
     - La buffer buffa tutti i membri del gruppo all'interno di un certo range, non può buffare membri esterni al gruppo se essa appartiene già ad un gruppo 
@@ -83,6 +94,15 @@ King Of Stones International
     - PVP BONUS
 
 
+
+  - Sistema Rank Player & Guild
+  	- Bottone nel menu attivabile dal tasto esc
+  	- Rank Points Guild
+  	 - In futuro mostrerà ulteriori dettagli come vittorie, sconfitte ecc (Future Release "UPDATE VERSION AND DATE")
+
+![1](https://i.ibb.co/P9rhZtj/053833-Sans-titre-12.png/)
+
+![2](https://github.com/blackdragonx61/Metin2-Rank-System/raw/master/system.gif/)
   - Sistema Stole 
   - Sistema teleport in mappa
   - Sistema Talismani
